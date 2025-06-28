@@ -1,0 +1,38 @@
+2025-06-28 03:40:42.263573: была вызвана функция "flat_generator" с аргументами ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) {} и результатом: <generator object flat_generator at 0x7ea970913ac0>
+2025-06-28 03:40:42.263627: была вызвана функция "flat_generator" с аргументами (['a', 'b', 'c'],) {} и результатом: <generator object flat_generator at 0x7ea9709edd80>
+2025-06-28 03:40:42.263656: была вызвана функция "flat_generator" с аргументами (['d', 'e', 'f', 'h', False],) {} и результатом: <generator object flat_generator at 0x7ea9709edd80>
+2025-06-28 03:40:42.263679: была вызвана функция "flat_generator" с аргументами ([1, 2, None],) {} и результатом: <generator object flat_generator at 0x7ea9709edd80>
+2025-06-28 03:40:42.263701: была вызвана функция "flat_generator" с аргументами ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) {} и результатом: <generator object flat_generator at 0x7ea970913ac0>
+2025-06-28 03:40:42.263725: была вызвана функция "flat_generator" с аргументами (['a', 'b', 'c'],) {} и результатом: <generator object flat_generator at 0x7ea9709edd80>
+2025-06-28 03:40:42.263745: была вызвана функция "flat_generator" с аргументами (['d', 'e', 'f', 'h', False],) {} и результатом: <generator object flat_generator at 0x7ea9709edd80>
+2025-06-28 03:40:42.263765: была вызвана функция "flat_generator" с аргументами ([1, 2, None],) {} и результатом: <generator object flat_generator at 0x7ea9709edd80>
+2025-06-28 03:40:42.263801: была вызвана функция "flat_generator" с аргументами ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) {} и результатом: <generator object flat_generator at 0x7ea970913ac0>
+2025-06-28 03:40:42.263823: была вызвана функция "flat_generator" с аргументами ([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],) {} и результатом: <generator object flat_generator at 0x7ea970913ac0>
+2025-06-28 03:40:42.263850: была вызвана функция "flat_generator" с аргументами ([['a'], ['b', 'c']],) {} и результатом: <generator object flat_generator at 0x7ea9709edd80>
+2025-06-28 03:40:42.263869: была вызвана функция "flat_generator" с аргументами (['a'],) {} и результатом: <generator object flat_generator at 0x7ea9709ec5f0>
+2025-06-28 03:40:42.263962: была вызвана функция "flat_generator" с аргументами (['b', 'c'],) {} и результатом: <generator object flat_generator at 0x7ea9709ec5f0>
+2025-06-28 03:40:42.264004: была вызвана функция "flat_generator" с аргументами (['d', 'e', [['f'], 'h'], False],) {} и результатом: <generator object flat_generator at 0x7ea9709edd80>
+2025-06-28 03:40:42.264025: была вызвана функция "flat_generator" с аргументами ([['f'], 'h'],) {} и результатом: <generator object flat_generator at 0x7ea9709ec5f0>
+2025-06-28 03:40:42.264043: была вызвана функция "flat_generator" с аргументами (['f'],) {} и результатом: <generator object flat_generator at 0x7ea9709efb90>
+2025-06-28 03:40:42.264062: была вызвана функция "flat_generator" с аргументами ([1, 2, None, [[[[['!']]]]], []],) {} и результатом: <generator object flat_generator at 0x7ea9709edd80>
+2025-06-28 03:40:42.264083: была вызвана функция "flat_generator" с аргументами ([[[[['!']]]]],) {} и результатом: <generator object flat_generator at 0x7ea9709ec5f0>
+2025-06-28 03:40:42.264101: была вызвана функция "flat_generator" с аргументами ([[[['!']]]],) {} и результатом: <generator object flat_generator at 0x7ea9709efb90>
+2025-06-28 03:40:42.264125: была вызвана функция "flat_generator" с аргументами ([[['!']]],) {} и результатом: <generator object flat_generator at 0x7ea9709efc60>
+2025-06-28 03:40:42.264143: была вызвана функция "flat_generator" с аргументами ([['!']],) {} и результатом: <generator object flat_generator at 0x7ea9709efe00>
+2025-06-28 03:40:42.264161: была вызвана функция "flat_generator" с аргументами (['!'],) {} и результатом: <generator object flat_generator at 0x7ea9709efd30>
+2025-06-28 03:40:42.264180: была вызвана функция "flat_generator" с аргументами ([],) {} и результатом: <generator object flat_generator at 0x7ea9709ec5f0>
+2025-06-28 03:40:42.264199: была вызвана функция "flat_generator" с аргументами ([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],) {} и результатом: <generator object flat_generator at 0x7ea970913ac0>
+2025-06-28 03:40:42.264222: была вызвана функция "flat_generator" с аргументами ([['a'], ['b', 'c']],) {} и результатом: <generator object flat_generator at 0x7ea9709edd80>
+2025-06-28 03:40:42.264240: была вызвана функция "flat_generator" с аргументами (['a'],) {} и результатом: <generator object flat_generator at 0x7ea9709ec5f0>
+2025-06-28 03:40:42.264274: была вызвана функция "flat_generator" с аргументами (['b', 'c'],) {} и результатом: <generator object flat_generator at 0x7ea9709ec5f0>
+2025-06-28 03:40:42.264293: была вызвана функция "flat_generator" с аргументами (['d', 'e', [['f'], 'h'], False],) {} и результатом: <generator object flat_generator at 0x7ea9709edd80>
+2025-06-28 03:40:42.264313: была вызвана функция "flat_generator" с аргументами ([['f'], 'h'],) {} и результатом: <generator object flat_generator at 0x7ea9709ec5f0>
+2025-06-28 03:40:42.264422: была вызвана функция "flat_generator" с аргументами (['f'],) {} и результатом: <generator object flat_generator at 0x7ea9709efb90>
+2025-06-28 03:40:42.264447: была вызвана функция "flat_generator" с аргументами ([1, 2, None, [[[[['!']]]]], []],) {} и результатом: <generator object flat_generator at 0x7ea9709edd80>
+2025-06-28 03:40:42.264469: была вызвана функция "flat_generator" с аргументами ([[[[['!']]]]],) {} и результатом: <generator object flat_generator at 0x7ea9709ec5f0>
+2025-06-28 03:40:42.264487: была вызвана функция "flat_generator" с аргументами ([[[['!']]]],) {} и результатом: <generator object flat_generator at 0x7ea9709efb90>
+2025-06-28 03:40:42.264521: была вызвана функция "flat_generator" с аргументами ([[['!']]],) {} и результатом: <generator object flat_generator at 0x7ea9709efc60>
+2025-06-28 03:40:42.264539: была вызвана функция "flat_generator" с аргументами ([['!']],) {} и результатом: <generator object flat_generator at 0x7ea9709efe00>
+2025-06-28 03:40:42.264557: была вызвана функция "flat_generator" с аргументами (['!'],) {} и результатом: <generator object flat_generator at 0x7ea9709efd30>
+2025-06-28 03:40:42.264576: была вызвана функция "flat_generator" с аргументами ([],) {} и результатом: <generator object flat_generator at 0x7ea9709ec5f0>
+2025-06-28 03:40:42.264595: была вызвана функция "flat_generator" с аргументами ([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],) {} и результатом: <generator object flat_generator at 0x7ea970913ac0>
